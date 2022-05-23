@@ -17,6 +17,8 @@
 		F8F9F4F9283B70A100ED9DF3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8F9F4CF283B709E00ED9DF3 /* ContentView.swift */; };
 		F8F9F4FA283B70A100ED9DF3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F8F9F4D0283B70A100ED9DF3 /* Assets.xcassets */; };
 		F8F9F4FB283B70A100ED9DF3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F8F9F4D0283B70A100ED9DF3 /* Assets.xcassets */; };
+		F8F9F50B283B74EE00ED9DF3 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = F8F9F50A283B74EE00ED9DF3 /* start.txt */; };
+		F8F9F50C283B74EE00ED9DF3 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = F8F9F50A283B74EE00ED9DF3 /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,7 @@
 		F8F9F4EE283B70A100ED9DF3 /* Tests macOS.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tests macOS.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F8F9F4F2283B70A100ED9DF3 /* Tests_macOS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOS.swift; sourceTree = "<group>"; };
 		F8F9F4F4283B70A100ED9DF3 /* Tests_macOSLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOSLaunchTests.swift; sourceTree = "<group>"; };
+		F8F9F50A283B74EE00ED9DF3 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +103,7 @@
 				F8F9F4CE283B709E00ED9DF3 /* WordScrambleApp.swift */,
 				F8F9F4CF283B709E00ED9DF3 /* ContentView.swift */,
 				F8F9F4D0283B70A100ED9DF3 /* Assets.xcassets */,
+				F8F9F50A283B74EE00ED9DF3 /* start.txt */,
 			);
 			path = Shared;
 			sourceTree = "<group>";
@@ -267,6 +271,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F8F9F4FA283B70A100ED9DF3 /* Assets.xcassets in Resources */,
+				F8F9F50B283B74EE00ED9DF3 /* start.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -275,6 +280,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F8F9F4FB283B70A100ED9DF3 /* Assets.xcassets in Resources */,
+				F8F9F50C283B74EE00ED9DF3 /* start.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
